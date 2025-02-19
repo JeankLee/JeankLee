@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiankunLi
-- 👀 I’m interested in 
+- 👀 I’m interested in time series analysis and robotics learning
 - 🌱 I’m currently learning soft robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
